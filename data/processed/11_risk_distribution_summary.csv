@@ -1,0 +1,4 @@
+risk_category,sourcing_pct,annual_mt,volume_at_risk_mt,profit_at_risk_M
+Low Risk (<20% loss),84.8,145560,6878.70885186355,141.87736931901821
+Medium Risk (20-40%),4.0,6900,1624.7136519493067,33.51066367241489
+High Risk (>40%),0.0,0,0.0,0.0

@@ -1,0 +1,10 @@
+Assumption,Annual_Impact_M,NPV_30yr_M
+Physical Risk -30% (High Adaptation),2406.16,27088.027968899605
+Physical Risk Baseline,2453.8,27624.7
+Physical Risk +30% (Low Adaptation),2501.44,28160.66956583279
+Carbon Cost -25% (Slower Transition),1880.05,21165.19557424681
+Carbon Cost Baseline,2453.8,27624.7
+Carbon Cost +25% (Faster Transition),3027.55,34083.50196048559
+Discount Rate 6%,2453.8,33776.14267952473
+Discount Rate 8% (Baseline),2453.8,27624.7
+Discount Rate 10%,2453.8,23131.76271909592
