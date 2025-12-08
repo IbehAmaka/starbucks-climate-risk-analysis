@@ -28,3 +28,8 @@
 - No farmer adaptation scenarios
 - Linear stress-to-yield relationships
 - No technological breakthroughs assumed
+
+## Adaptation parameters
+Base Case (0.4): Middle of empirical range (35-50%)
+Conservative (0.2): Lower bound to show pessimistic case
+Optimistic (0.6): Upper bound to show best-case adaptation
