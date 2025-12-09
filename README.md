@@ -17,15 +17,15 @@ translate complex climate projections into executive-ready business intelligence
 
 Key Findings at a Glance
 
- Metric 	 Value 	 Business Insight 
- Total Annual Exposure (2050)	 $2.45B/year 	 Most likely scenario (Delayed Transition) 
- 30-Year NPV 	 $27.6B 	 Material financial exposure requiring strategy 
- Competitive Advantage 	 $33M profit protection 	 High-elevation sourcing creates structural moat 
- Portfolio Resilience	 85% low-risk regions 	 Outperforms all competitors on diversification 
- Most Vulnerable Region 	 Sumatra (23.5% yield loss) 	 Immediate diversification opportunity 
- Scenarios Analyzed 	 3 pathways 	 Net Zero 2050, Delayed Transition, Current Policies 
- Regions Analyzed 	 29 coffee origins 	 Global geographic coverage 
- Carbon Pricing Impact	 14x > physical risk 	 Transition risk dominates financial exposure 
+ Metric 	                      Value 	                     Business Insight 
+ Total Annual Exposure (2050)	 $2.45B/year 	               Most likely scenario (Delayed Transition) 
+ 30-Year NPV 	                $27.6B 	                     Material financial exposure requiring strategy 
+ Competitive Advantage 	      $33M profit protection 	     High-elevation sourcing creates structural moat 
+ Portfolio Resilience	        85% low-risk regions 	       Outperforms all competitors on diversification 
+ Most Vulnerable Region 	     Sumatra (23.5% yield loss) 	 Immediate diversification opportunity 
+ Scenarios Analyzed 	                                      3 pathways 	 Net Zero 2050, Delayed Transition, Current Policies 
+ Regions Analyzed 	           29 coffee origins 	          Global geographic coverage 
+ Carbon Pricing Impact	       14x > physical risk 	        Transition risk dominates financial exposure 
 
 
 #Quick Start
@@ -85,10 +85,10 @@ Indonesia Java:         14.8% yield loss by 2050 🔴
 
 **Annual Climate Costs (2050):**
 
- Scenario 	 Physical Risk 	 Carbon Cost 	 Total 	 Implication 
- **Net Zero 2050** 	 $118M 	 $878M 	 $996M 	 Strong climate action 
- **Delayed Transition** 	 $159M 	 $2,295M 	 $2,454M 	 Most likely 
- **Current Policies** 	 $175M 	 $32M 	 $208M 	 High physical risk 
+ Scenario 	              Physical Risk 	 Carbon Cost 	 Total 	 Implication 
+ **Net Zero 2050** 	      $118M 	         $878M 	       $996M 	 Strong climate action 
+ **Delayed Transition** 	 $159M 	         $2,295M 	     $2,454M 	 Most likely 
+ **Current Policies** 	   $175M 	          $32M 	       $208M 	 High physical risk 
 
 
 **30-Year NPV (8% discount rate):**
@@ -103,7 +103,7 @@ The real financial exposure comes from the transition to a low-carbon economy, n
 
 **Starbucks' Portfolio Distribution (2050, SSP2-4.5):**
 ```
- 85% in LOW-RISK regions      (1-2% yield loss)
+85% in LOW-RISK regions      (1-2% yield loss)
 4% in MEDIUM-RISK regions    (6-8% yield loss)
 0% in HIGH-RISK regions     (>20% yield loss)
 ```
